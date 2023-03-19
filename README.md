@@ -1,4 +1,4 @@
-# Proyecto-CRUD-de-estudiantes
+# Proyecto CRUD de estudiantes
 Este proyecto es una aplicación en Python que expone servicios REST para realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre un conjunto de estudiantes, los cuales se almacenan en una base de datos SQL Server.
 
 Configuración
